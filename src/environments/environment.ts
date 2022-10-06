@@ -4,15 +4,15 @@
 
 export const environment = {
   production: false,
-  firebase: {
-    apiKey: 'AIzaSyDSJiEUBFPdvavsP2bqnk3nCEQfSw-x6Cg',
-    authDomain: 'imagenesprueba-569ed.firebaseapp.com',
-    databaseURL: 'https://imagenesprueba-569ed.firebaseio.com',
-    projectId: 'imagenesprueba-569ed',
-    storageBucket: 'imagenesprueba-569ed.appspot.com',
-    messagingSenderId: '700803797704',
-    appId: '1:700803797704:web:5d39a870f2f58e66df8bfd',
-    measurementId: 'G-7MHP6R7708'
+  firebaseTiendas: {
+    apiKey: "AIzaSyAZYWOpJXwAdoke_3zeeAvcFQh1qgDcVdI",
+    authDomain: "ventasinternas.firebaseapp.com",
+    databaseURL: "https://ventasinternas.firebaseio.com",
+    projectId: "ventasinternas",
+    storageBucket: "ventasinternas.appspot.com",
+    messagingSenderId: "685579128412",
+    appId: "1:685579128412:web:f9cd13b7148b94ac3aa099",
+    measurementId: "G-P8XEX4S8S3"
   }
 };
 
